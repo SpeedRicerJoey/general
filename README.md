@@ -28,3 +28,21 @@ General Assembly's Frontend Web Development course is made up of 20 lessons that
 | --- | --- | --- | :---: | 
 | Lesson 0 | [Installfest](curriculum/00-installfest/readme.md) || | |
 | Lesson 1 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 2 | [More HTML & CSS ](curriculum/02-more-html-css/readme.md) ||  | |
+| Lesson 3 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 4 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 5 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 6 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 7 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 8 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 9 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 10 | [Installfest](curriculum/00-installfest/readme.md) || | |
+| Lesson 11 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 12 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 13 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 14 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 15 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 16 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 17 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 18 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 19 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |

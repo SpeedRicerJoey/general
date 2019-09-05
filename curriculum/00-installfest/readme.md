@@ -4,8 +4,8 @@ Congratulations!!! You made this far.
 Before We get started lets install a few things:
 
 ## Code Editors
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Atom](https://atom.io)
+- [Visual Studio Code (recommended)](https://code.visualstudio.com/download)
+- [Atom (optional)](https://atom.io)
 
 ## Github Pages
 - [Github Desktop](https://desktop.github.com)

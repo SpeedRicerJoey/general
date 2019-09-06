@@ -26,8 +26,8 @@ General Assembly's Frontend Web Development course is made up of 20 lessons that
 ## Unit 1
 | Class | Title | Lab | HW |
 | --- | --- | --- | :---: | 
-| Lesson 0 | [Installfest](curriculum/00-installfest/readme.md) || | |
-| Lesson 1 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) ||  | |
+| Lesson 0 | [Installfest](curriculum/00-installfest/readme.md) |[Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01),| No HW| |
+| Lesson 1 | [Introduction to HTML & CSS ](curriculum/01-intro-html-css/readme.md) | [Lab 1](https://github.com/FEWD-Jeddah/week-01-Lab-01)| | |
 | Lesson 2 | [More HTML & CSS ](curriculum/02-more-html-css/readme.md) ||  | |
 | Lesson 3 |  ||  | |
 | Lesson 4 |  ||  | |

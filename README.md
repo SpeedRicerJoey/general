@@ -21,9 +21,8 @@ The following is given as a guideline only and may be adjusted by the instructor
 
 General Assembly's Frontend Web Development course is made up of 20 lessons that are 3 hours each. This course is split into 4 units.
 
-# Lesson Breakdown
+## Lesson Breakdown
 
-## Unit 1
 | Class | Title | Lab | HW |
 | --- | --- | --- | :---: | 
 | Lesson 0 | [Installfest](curriculum/00-installfest/readme.md) | - | - | |
@@ -46,3 +45,23 @@ General Assembly's Frontend Web Development course is made up of 20 lessons that
 | Lesson 17 |  ||  | |
 | Lesson 18 |  ||  | |
 | Lesson 19 |  ||  | |
+
+
+#### Students
+
+| No. | Student | Final Project |
+|---  | ---     | ---      |  
+|1    | [Student Name ](https://github.com/) | [Final Project](https://github.io/) |
+
+
+
+#### Homework
+
+
+
+#### Further Resources
+
+* Feel free to read more from [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) about JavaScript fundamentals.
+
+* [w3schools HTML](https://www.w3schools.com/html/)
+* [w3schools JS](https://www.w3schools.com/js/)

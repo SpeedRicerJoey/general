@@ -7,7 +7,14 @@ Before We get started lets install a few things:
 - [Visual Studio Code (recommended)](https://code.visualstudio.com/download)
 - [Atom (optional)](https://atom.io)
 
-## Github Pages
+## LiveServer Plugin
+- Install Visual Studio Code
+- Start Visual Studio Code
+- Follow the image below to install `Liveserver plugin`
+
+![](vscode_liveserver.jpg)
+
+## Github Desktop
 - [Github Desktop](https://desktop.github.com)
 
 ## Web Browser

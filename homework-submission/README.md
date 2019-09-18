@@ -52,7 +52,17 @@ When it is completed, it should look like the image below without the annotation
 
 ## Sending Pull Request
 1. Visit your github repo to ensure the files have been updated. If they have been updated.
-Click on `New pull request`
+Click on  `New pull request`
 ![](images/9.png)
 
-2.
+2. Make sure the base repo is the original homework repo and your repo is yours. Then click `Create pull request`.
+![](images/10.png)
+3. Fill out your submission. When submitting, include the following:
+ * on a scale from 1 to 5, how comfortable were you with this assignment?
+ * What was a win you had with this assignment?
+ * What was a challenge you had with this assignment?
+ * Is there anything that you'd like some further information on?
+ * Other stuff on your mind? work with anyone? tell us about it!
+![](images/11.png)
+
+4. Click Create Pull Request to submit your work!

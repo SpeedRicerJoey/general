@@ -3,7 +3,7 @@
 Welcome to Frontend Web Development. This repository contains information and materials specific to your course.
 
 # Important links
-- [Class Slack](https://miskacademy.slack.com/messages/)
+- [Class Slack](https://miskacademy.slack.com/messages/CMRSGL76E/)
 - [Exit Ticket](https://google.com/)
 
 
@@ -59,7 +59,7 @@ Homework submission is very important to the completion of this program. [Click 
 
 
 #### Homework
-
+[Click Me If you forgot how to submit](homework-submission/README.md)
 
 
 #### Further Resources
